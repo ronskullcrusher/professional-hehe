@@ -1,4 +1,4 @@
-﻿# professional-hehe
+
 # BrickNBash Game
 
 BrickNBash is a simple Java Swing-based game where the player controls a ball to navigate through obstacles and reach the goal.
